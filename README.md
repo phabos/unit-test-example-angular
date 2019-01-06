@@ -3,5 +3,5 @@
 ## Run
 Run test with Karma : ```ng test```    
 
-# Resources
+## Resources
 [Js Republic](http://blog.js-republic.com/fiche-recapitulative-des-tests-unitaires-en-angular/)
