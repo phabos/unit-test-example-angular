@@ -6,4 +6,5 @@ Run e2e tests : ```ng e2e```
 
 ## Resources
 [Js Republic](http://blog.js-republic.com/fiche-recapitulative-des-tests-unitaires-en-angular/)    
-[e2e](https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor)
+[e2e protractor](https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor)    
+[introduction aux tests unitaires](https://blog.soat.fr/2018/02/tests-unitaires-avec-angular-partie-1/)
