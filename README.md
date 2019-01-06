@@ -1,5 +1,8 @@
 # Example of unit test with angular
 
+## Aim
+Make test on simple example service (using http) and component using service
+
 ## Run
 Run test with Karma : ```ng test```    
 Run e2e tests : ```ng e2e```
